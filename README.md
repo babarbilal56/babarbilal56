@@ -12,3 +12,5 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=babarbilal303)](https://babarbilal.vercel.app)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sami-ul-haq&layout=compact&hide=jupyter%20notebook&theme=dark&langs_count=6)
+
