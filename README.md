@@ -10,7 +10,7 @@
 
 🚧 I'm currently working on building a Large Scale Backend Project using Nodejs.
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=fahdi)](https://babarbilal.vercel.app)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=babarbilal303)](https://babarbilal.vercel.app)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahdi&layout=compact&hide=jupyter%20notebook&theme=dark&langs_count=6)
 
