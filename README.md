@@ -7,13 +7,13 @@
 
 👀 I'm interested in learning new technologies and expanding my skillset.
 
-🌱 Currently, I'm focusing on ReactJS, React Native, PHP, JavaScript, NodeJS, Vuejs, NextJS & Laravel.
+🌱 Currently, I'm focusing on ReactJS, React Native PHP, JavaScript, NodeJS,<br/>  Vuejs, NextJS & Laravel.
 
-💞️ I'm looking to collaborate on tiny projects that can help me grow and learn from others.
+💞️ I'm looking to collaborate on tiny projects that can help me grow and <br/> learn from others.
 
 📫 Feel free to reach out to me via email at babarbilal56@gmail.com.
 
-
+<br/>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
