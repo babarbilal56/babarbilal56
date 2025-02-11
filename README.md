@@ -1,4 +1,4 @@
-<img align="center" alt="coding" src="1636715436073.jpeg">
+<img align="center" alt="coding" src="header_.png">
 
 
 <h1 align="center">Hi 👋, I'm Babar Bilal</h1>
