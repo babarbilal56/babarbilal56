@@ -2,16 +2,27 @@
 
 
 <h1 align="center">Hi 👋, I'm Babar Bilal</h1>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<br/>
+
+## 🚀 **Full-Stack Developer | Problem Solver | Tech Enthusiast**  
+I have experience in building **scalable web and mobile applications** using modern frameworks and tools. Passionate about **clean code**, **performance optimization**, and **continuous learning**.  
+
+## 💡 What I Do  
+✔️ Develop **high-performance** web and mobile applications  
+✔️ Create **scalable and maintainable** solutions  
+✔️ Work with modern frameworks and tools  
+✔️ Collaborate on **open-source & innovative projects**  
 
 
-👀 I'm interested in learning new technologies and expanding my skillset.
+## 🤝 Let's Connect!  
 
-🌱 Currently, I'm focusing on ReactJS, React Native PHP, JavaScript, NodeJS, Vuejs, NextJS & Laravel.
+💬 I'm always open to **collaborating** on exciting projects and learning from others. If you have a great idea, let's build something amazing together!  
 
-💞️ I'm looking to collaborate on tiny projects that can help me grow and learn from others.
+📧 **Email:** [babarbilal56@gmail.com](mailto:babarbilal56@gmail.com)  
 
-📫 Feel free to reach out to me via email at babarbilal56@gmail.com.
+🚀 _Let's innovate and grow together!_  
+
+
 
 <br/>
 
