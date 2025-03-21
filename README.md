@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Babar Bilal</h1>
 <br/>
 
-## 🚀 **Full-Stack Developer | Problem Solver | Tech Enthusiast**  
+## 🚀 Full-Stack Developer | Scalable Systems Architect | Tech Innovator
 I have experience in building **scalable web and mobile applications** using modern frameworks and tools. Passionate about **clean code**, **performance optimization**, and **continuous learning**.  
 
 ## 💡 What I Do  
